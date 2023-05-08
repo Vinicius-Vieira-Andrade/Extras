@@ -1,0 +1,40 @@
+NOME DA CLASSE NÃO PODE SER IGUAL AO DA PASTA(DA ERRO AO IMPORTAR)
+NAMESPACE A PASTA ONDE ESTA A CLASSE!!! (PODE TER PASTA DENTRO DE PASTA COM UMA CLASSE LA)
+NOME DE CLASSE SEMPRE SINGULAR
+
+
+
+classe principal do programa = PROGRAM.CS
+agr iremos trabalhar com classe 1, classe 2, classe 3, etc...
+
+DECLARAR VARIAVEL EXEMPLOS
+public       string        nome;
+
+public       int           idade;
+
+acessor   |   tipo de dado | nome da variavel
+
+
+
+OBS: Geralmente nomeaos por boas praticas verbos na hora de adicionar as funcionalidade/metodos
+
+CRIAR METODO EXEMPLO
+public dado nomeMetodo(VERBO)(dado argumento1, argumento2)
+{
+	return argumento1 * argumento2;
+}
+
+---------------------------------------------------------------------------
+CRIAR CLASSE = .CS
+
+JEITO MAIS CORRETO
+CLICAR COM O DIREITO E IR EM NEW C# E SELECIONAR A OPCAO CLASS
+---------------------------------------------------------------------------
+
+COMO INSTANCIAR/CRIAR UM OBJETO
+Personagem    person1 = new Personagem();
+classe        objeto  = instanciar
+vai guardar atributos como armadura nome, idade, IA
+
+USING > importar pastas, encaminhar, tipo usar classe personagem no program.s usando o "USING NOMEDAPASTA.PERSONAGEM"
+

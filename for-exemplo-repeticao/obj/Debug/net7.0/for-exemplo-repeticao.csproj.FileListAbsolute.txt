@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\bin\Debug\net7.0\for-exemplo-repeticao.exe
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\bin\Debug\net7.0\for-exemplo-repeticao.deps.json
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\bin\Debug\net7.0\for-exemplo-repeticao.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\bin\Debug\net7.0\for-exemplo-repeticao.dll
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\bin\Debug\net7.0\for-exemplo-repeticao.pdb
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.dll
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\refint\for-exemplo-repeticao.dll
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.pdb
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\for-exemplo-repeticao.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\for-exemplo-repeticao\obj\Debug\net7.0\ref\for-exemplo-repeticao.dll

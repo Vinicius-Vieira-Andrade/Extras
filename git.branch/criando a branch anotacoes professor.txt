@@ -1,0 +1,47 @@
+criar repositorio e adicionar colaboradores pelo email
+
+clonar repositorio na maquina
+
+cd projeto_pagamento(repositorio)
+entrar no repositorio ou entrar com o git bash direto na pasta
+criar nova branch na pasta com o nome develop
+git branch --list ver as branchs criadas
+entrar nela com checkout develop
+criar uma pasta dentro da pasta principal dps de entrar na branch develop
+abrir a pasta e criar o projeto
+
+EM TODA ALTERAÇÃO
+sempre dar git add . e 
+git commit "criado branch develop e inicializado o projeto"
+git push origin "???" : oque eu qro empurrar
+cd develi
+a partir da develop criar as branchs de cada desenvolvedor
+com o git branch nome
+CRIAR DAR COMMIT E VOLTAR NA DEVELOP PARA CRIAR O RESTANTE
+
+CERTIFICAR-SE DE ESTAR NA SUA BRANCH
+DPS DE FINALIZAR AS ALTERACOES SALVAR ELE NO GIT BASH
+
+DENTRO DA SUA BANCH DAR UM MERGE PRA PUXAR O CONTEUDO/ATUALIZACOES
+PARA DEPOIS TRABALHAR PRA SUA BRANCH
+
+DPS DE FEITO DAR ADD COMMIT ESPECIFICANDO AS ALTERACOES FEITO DESDO DO MERGE
+E SUBIR USANDO PUSH ORIGIN NOME DA BRANCH QUE QUER ATUALIZAR
+
+mandar para develop os trabalhos realizados
+git checkout develop e MANDAR O GIT PULL PARA BAIXAR AS ATUALIZACOES
+DENTRO DA PASTA Q VAI BAIXAR e dps dar
+git add .  git commit e git push origin develop
+
+fazer o mesmo pra main para quando finalizar o projeto 
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\bin\Debug\net7.0\exercicio-array-2.exe
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\bin\Debug\net7.0\exercicio-array-2.deps.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\bin\Debug\net7.0\exercicio-array-2.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\bin\Debug\net7.0\exercicio-array-2.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\bin\Debug\net7.0\exercicio-array-2.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\refint\exercicio-array-2.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\exercicio-array-2.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-array-2\obj\Debug\net7.0\ref\exercicio-array-2.dll

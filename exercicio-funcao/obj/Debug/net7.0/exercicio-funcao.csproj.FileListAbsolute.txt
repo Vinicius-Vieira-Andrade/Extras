@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\bin\Debug\net7.0\exercicio-funcao.exe
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\bin\Debug\net7.0\exercicio-funcao.deps.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\bin\Debug\net7.0\exercicio-funcao.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\bin\Debug\net7.0\exercicio-funcao.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\bin\Debug\net7.0\exercicio-funcao.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\refint\exercicio-funcao.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\exercicio-funcao.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-funcao\obj\Debug\net7.0\ref\exercicio-funcao.dll

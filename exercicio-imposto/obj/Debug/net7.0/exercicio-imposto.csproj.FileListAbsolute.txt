@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\bin\Debug\net7.0\exercicio-imposto.exe
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\bin\Debug\net7.0\exercicio-imposto.deps.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\bin\Debug\net7.0\exercicio-imposto.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\bin\Debug\net7.0\exercicio-imposto.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\bin\Debug\net7.0\exercicio-imposto.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\refint\exercicio-imposto.dll
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.pdb
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\exercicio-imposto.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\exercicio-imposto\obj\Debug\net7.0\ref\exercicio-imposto.dll

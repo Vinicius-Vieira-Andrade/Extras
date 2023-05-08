@@ -1,0 +1,20 @@
+procurar por lista no c# e guardar os objetos da classe
+lista da classe, com objetos da classe dentro
+
+fim de semana
+
+
+list<personagem> list= new list<Personagem>();
+
+Personagem.ADD()
+             (p1)
+
+listar com foreach
+
+
+
+List<Personagem> list = new List<Personagem>();
+
+list.Add(p1);
+
+

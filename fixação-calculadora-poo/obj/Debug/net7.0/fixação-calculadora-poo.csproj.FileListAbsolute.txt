@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\bin\Debug\net7.0\fixação-calculadora-poo.exe
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\bin\Debug\net7.0\fixação-calculadora-poo.deps.json
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\bin\Debug\net7.0\fixação-calculadora-poo.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\bin\Debug\net7.0\fixação-calculadora-poo.dll
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\bin\Debug\net7.0\fixação-calculadora-poo.pdb
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.dll
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\refint\fixação-calculadora-poo.dll
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.pdb
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\fixação-calculadora-poo.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\fixação-calculadora-poo\obj\Debug\net7.0\ref\fixação-calculadora-poo.dll

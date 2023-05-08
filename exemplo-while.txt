@@ -1,0 +1,37 @@
+//*********LAÇO DO-WHILE
+bool idadeCerta = false;
+
+do
+{
+    Console.WriteLine($"Qual a idade do CR7 ?");
+    int idade = int.Parse(Console.ReadLine());
+
+    if(idade == 38)
+    {
+        Console.WriteLine($"Acertou!!");
+        idadeCerta = true;        
+    }
+    else
+    {
+        Console.WriteLine($"Errou feio, tente novamente!");        
+    }
+    
+} while (idadeCerta == false);
+
+
+
+/**************************************
+
+// // //EXEMPLO WHILE
+bool idadeCerta = false;
+
+while (idadeCerta == false)
+{
+    Console.WriteLine($"Qual a idade do CR7 ?");
+    int idade = int.Parse(Console.ReadLine());
+
+    if (idade == 38)
+    {
+        idadeCerta = true;
+    }    
+}

@@ -1,0 +1,15 @@
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.csproj.AssemblyReference.cache
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.AssemblyInfoInputs.cache
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.AssemblyInfo.cs
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\bin\Debug\net7.0\elevador.exe
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\bin\Debug\net7.0\elevador.deps.json
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\bin\Debug\net7.0\elevador.runtimeconfig.json
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\bin\Debug\net7.0\elevador.dll
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\bin\Debug\net7.0\elevador.pdb
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.dll
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\refint\elevador.dll
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.pdb
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\elevador.genruntimeconfig.cache
+C:\Users\Guilherme-Vinicius\Desktop\testes\exercicios-POO-05.05.23\elevador\obj\Debug\net7.0\ref\elevador.dll

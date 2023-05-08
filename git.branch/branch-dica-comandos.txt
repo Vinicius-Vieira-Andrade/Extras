@@ -1,0 +1,9 @@
+developer  featureA featureB
+
+entrar numa branch, entrar na que voce quer: GIT CHECKOUT
+
+puxar/juntar oq tem na featureA e fundir com a minha branch/featureB: 
+GIT MERGE
+
+atualizar/baixar atualizacoes de uma branch 
+*to na featureA e uso o pull com o nome da featureB: GIT PULL

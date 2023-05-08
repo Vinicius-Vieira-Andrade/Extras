@@ -1,0 +1,29 @@
+arrays/matriz =  é um vetor
+armazenar varios valores (exemplo: idades , nomes) SO QUE DO MESMO TIPO, TIPO SO ARMAZENAR INT, STRING ETC...
+
+
+estrutura:
+String [] carros = new string[4] (4 espacos para 4 valores)
+(string, int ou qualquer dado) string[] carros;
+string carros = ???; (um valor por "caixa")
+
+
+       valores =   valor1  valor2  valor3
+string[] carros = {"fusca", "gol", "uno"} > 3 valores na string carros
+indice = posicao do valor na lista, sempre comeca no 0 (primeiro elemento da lista) dps segundo elemento 1 etc...
+
+
+string[] carros = {"???", "???", "???", "???"};   (MELHOR FORMA DE ESCREVER, MAIS USADA)
+String [] carros = new string[4] (quando precisa dizer quantos valores terá, precisa instanciar com o "new string")
+
+
+
+
+FOREACH (TYPE NAMEVARIABLE IN ARRAY)USADO EXCLUSIVAMENTE PARA PERCORRER MATRIZ
+
+foreach (string exemplo IN arrayDesejada)
+{
+	console.writeLine($oq eu quero mostrar é: {exemplo})
+}
+
+FOREACH INDICADO PRA LER UMA LISTA TODA, SE FOR SÓ UMA LISTA, SE FOR MAIS MELHOR USAR FOR 

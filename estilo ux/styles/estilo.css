@@ -1,0 +1,77 @@
+body {
+ background-color:beige
+}
+
+header {
+    background-color: gray;
+    
+}
+
+header .grid-layout {
+    width: 80%;
+    margin: 0 auto;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+header h1 {
+    color: white;
+    text-transform: capitalize;
+}
+
+header #ux {
+    text-transform: uppercase;
+    font-style: italic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+header nav {
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/*links sem sublinhação  */
+ a { 
+    text-decoration: none;
+    color: white;
+}
+
+main section {
+    background-color:  rgb(255, 255, 255);
+    width: 40%;
+
+}
+
+
+main section img {
+    width: 790px;
+    height: 250px;
+    margin-top: 20px;
+}
+
+#formatacao {
+    width: 80%;
+    margin: 0px auto;
+}
+
+main section p {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.articles {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.article-flex {
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+}

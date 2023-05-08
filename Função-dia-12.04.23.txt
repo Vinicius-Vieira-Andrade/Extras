@@ -1,0 +1,17 @@
+Um método ou função = definido como o nome do método acompanhado dos parênteses()
+EXEMPLO: Fazer()
+boa maneira, usar maiuscula no comeco do nome do método/função
+
+
+Métodos ou funções são feitos para executar determinadas ações
+
+
+			ESTRUTURA
+
+Static =  pertence a classe e não ao objeto no caso program.cs
+
+Void =  não possui retorno / so imprimira a resposta
+se não vc retorna o dado
+
+exemplo sem retorno: static void MyMethod();
+exemplo com retorno dado(float): static float MyMethod(); 

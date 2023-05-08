@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\bin\Debug\net7.0\Função-introdução.exe
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\bin\Debug\net7.0\Função-introdução.deps.json
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\bin\Debug\net7.0\Função-introdução.runtimeconfig.json
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\bin\Debug\net7.0\Função-introdução.dll
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\bin\Debug\net7.0\Função-introdução.pdb
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.dll
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\refint\Função-introdução.dll
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.pdb
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\Função-introdução.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testeeee\Função-introdução\obj\Debug\net7.0\ref\Função-introdução.dll

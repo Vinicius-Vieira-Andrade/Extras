@@ -1,0 +1,5 @@
+contain - se existe algo ali
+const - constante nunca muda
+variavel - muda
+nao aceita "-" somente "_" na criacao e instancia de
+classe e objeto 

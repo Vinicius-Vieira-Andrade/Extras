@@ -1,0 +1,8 @@
+public string nome = get;        private set;
+certo                 ^               ^
+                      ^               ^
+                     leitura     setar, gravar
+
+
+private string nome;
+errado

@@ -1,0 +1,22 @@
+a main é vazia
+a developer é onde é criado o projeto
+
+as outras branchs são de cada membro do projeto
+as funcionalidades são criadas assim
+
+GIT PULL BAIXAR ATUALIZACOES
+
+criar uma branch: git branch nome / git checkout -b nome
+
+sair de uma branch para outra: git checkout nome
+
+merge/juntar: git merge origin nome (em quem vai receber)
+
+git pull: para "puxar" as alterações do github
+
+ver as branchs criadas: git branch --list ou git branch
+
+
+
+
+ 

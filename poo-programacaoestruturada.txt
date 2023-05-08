@@ -1,0 +1,23 @@
+classe - conceito de algo tipo pessoa, carros
+objeto - materialização do conceito da classe
+metodo - funcionalidades
+
+EXEMPLO:
+classe livro
+
+objeto livroInfantil
+
+objeto livroTecnico
+
+
+classe = esqueleto - algo genérico
+objeto = da o significado, o visual
+EXEMPLO:
+classe carro
+objeto a ford materialização da classe objeto
+objeto b mercedez materialização da classe objeto
+atributos/características volante, pedal, câmbio
+funcionalidades/comportamento freiar, acelerar
+
+
+

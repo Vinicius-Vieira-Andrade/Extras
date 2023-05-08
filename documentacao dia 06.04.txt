@@ -1,0 +1,2 @@
+intervalo de tempo pra reproduzir linhas no c#
+thread sleep();

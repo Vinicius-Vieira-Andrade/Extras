@@ -1,0 +1,12 @@
+entrar com o salario
+
+criar uma funcao q fará os calculos
+
+de 1501 ate 3500 terá 20% de imposto de renda
+
+de 3501 até 6000 terá 25% de imposto de renda
+
+acima de 6000 terá 35% de imposto
+
+
+formula (1000 x 20) / 100 imposto
