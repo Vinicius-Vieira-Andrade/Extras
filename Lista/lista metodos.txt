@@ -1,0 +1,12 @@
+add - adiciona um item no final da lista
+clear - remove todos o itens da lista
+contains - mostra oq tem na lista
+find - encontrar itens na lista de acordo com oq o desenvolvedor procurar
+ele retorna o primeiro nome dado
+find all - encontra todos itens dentro da lista, se tiver 4 com o mesmo nome ele traz todos os 4
+index off - mostra o indicie do item
+insert - insere um item na lista de acordo com o indice q o dev informar
+remove - remove o primeiro item q o computer achar da lista
+remove - all remove todos itens
+reverse - inverte os itens da lista
+sort - classifica todos os itens da lista

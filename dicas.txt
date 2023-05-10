@@ -3,3 +3,12 @@ const - constante nunca muda
 variavel - muda
 nao aceita "-" somente "_" na criacao e instancia de
 classe e objeto 
+
+
+visual studio code - quando estiver tudo certo reiniciar o vs
+quando aparecer erro de nivel superior
+
+
+prop cria propriedade com get set
+ctor cria metodo construtor
+

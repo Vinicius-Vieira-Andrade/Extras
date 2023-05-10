@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = fixacao_static
-build_property.ProjectDir = c:\Users\53685550837\Desktop\testes-in-aula\metodos construtores\fixacao static\
+build_property.RootNamespace = exemplo_static_prof
+build_property.ProjectDir = c:\Users\53685550837\Desktop\testes-in-aula\metodos construtores\exemplo static prof\

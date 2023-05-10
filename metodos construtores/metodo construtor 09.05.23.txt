@@ -1,0 +1,20 @@
+metodo static = n se instancia a classe, 
+quando for chamar uma funcao por exemplo
+vc somente digita o nome da classe q esta a funcao
+e dps coloca o nome da funcao
+
+exemplo: nomeClasse.nomeMetodo();
+
+membros da classe static leva o nome static tbm
+
+
+
+
+CONSTRUTOR 
+SNIPPET CONSTROI UM METODO CONSTRUTOR ATRAVES DO COMANDO "CTOR"
+construtor vazio so atribui valores a propriedades se eu quise e nas quais
+eu quiser
+
+quando atribuir um parametro eu devo no momento de instanciamento
+atribuir o valor desse parametro, eu sou obrigado a faze-lo
+
