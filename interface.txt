@@ -1,0 +1,2 @@
+uma classe pode herdar somente uma classe e pode herdar varias interfaces
+ela tem q ser declarada na ordem primeiro "Classe, Interface, Interface"
