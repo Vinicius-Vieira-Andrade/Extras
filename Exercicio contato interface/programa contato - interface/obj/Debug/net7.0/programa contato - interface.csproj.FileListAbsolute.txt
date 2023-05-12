@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\programa contato - interface\bin\Debug\net7.0\programa contato - interface.exe
+C:\Users\53685550837\Desktop\programa contato - interface\bin\Debug\net7.0\programa contato - interface.deps.json
+C:\Users\53685550837\Desktop\programa contato - interface\bin\Debug\net7.0\programa contato - interface.runtimeconfig.json
+C:\Users\53685550837\Desktop\programa contato - interface\bin\Debug\net7.0\programa contato - interface.dll
+C:\Users\53685550837\Desktop\programa contato - interface\bin\Debug\net7.0\programa contato - interface.pdb
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.dll
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\refint\programa contato - interface.dll
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.pdb
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\programa contato - interface.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\programa contato - interface\obj\Debug\net7.0\ref\programa contato - interface.dll
