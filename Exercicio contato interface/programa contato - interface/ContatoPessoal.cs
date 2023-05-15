@@ -11,7 +11,12 @@ namespace programa_contato___interface
 
         public bool ValidarCpf(string _cpf)
         {
-            
+            Cpf = _cpf;
+
+            if (Cpf.Length == 11)
+            {
+                return true;
+            }
         }
     }
 }

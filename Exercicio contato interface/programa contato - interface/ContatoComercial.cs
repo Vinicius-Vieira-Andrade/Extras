@@ -11,7 +11,11 @@ namespace programa_contato___interface
 
         public bool ValidarCnpj(string _cnpj)
         {
-            throw new NotImplementedException();
+            Cnpj = _cnpj;
+            if (Cnpj.Length == 14)
+            {
+                return true;
+            }
         }
     }
 }
