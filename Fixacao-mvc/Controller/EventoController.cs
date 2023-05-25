@@ -22,7 +22,8 @@ namespace Fixacao_mvc.Controller
 
         public void CadastrarEventos()
         {
-            Evento novoEvento = 
+            Evento novoEvento = eventView.Cadastrar(); 
+            evento.Inserir(novoEvento);
         }
 
     }
