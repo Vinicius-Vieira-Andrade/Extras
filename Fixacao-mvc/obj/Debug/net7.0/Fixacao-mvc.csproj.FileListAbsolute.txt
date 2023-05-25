@@ -1,0 +1,15 @@
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.csproj.AssemblyReference.cache
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.AssemblyInfoInputs.cache
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.AssemblyInfo.cs
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.csproj.CoreCompileInputs.cache
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\bin\Debug\net7.0\Fixacao-mvc.exe
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\bin\Debug\net7.0\Fixacao-mvc.deps.json
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\bin\Debug\net7.0\Fixacao-mvc.runtimeconfig.json
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\bin\Debug\net7.0\Fixacao-mvc.dll
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\bin\Debug\net7.0\Fixacao-mvc.pdb
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.dll
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\refint\Fixacao-mvc.dll
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.pdb
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\Fixacao-mvc.genruntimeconfig.cache
+C:\Users\53685550837\Desktop\testes-in-aula\Fixacao-mvc\obj\Debug\net7.0\ref\Fixacao-mvc.dll
