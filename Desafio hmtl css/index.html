@@ -5,37 +5,167 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Relap</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
     <header>
-        <h1> relap </h1>
-        <input type="text" placeholder="Search">
-        <nav>
-            <a href="">Store</a>
-            <a href="">Features</a>
-            <a href="">About</a>
-            <a href="">Blog</a>
-            <a href="">News</a>
-        </nav>
+        <div class="grid">
+            <div class="links">
+                <h1> relap </h1>
+                <input type="text" placeholder="Search">
+                <nav>
+                    <a href="">Store</a>
+                    <a href="">Features</a>
+                    <a href="">About</a>
+                    <a href="">Blog</a>
+                    <a href="">News</a>
+                </nav>
 
-        <img src="" alt="Símbolo com desenho de coração, parar visualizar seus itens favoritos">
-        <img src="" alt="Carrinho de compras, para ver itens a serem comprados">
-        <img src="" alt="Menu hamburguer">
+                <div class="alinha-icones">
+                    <a href="">
+                        <img class="threeicons" src="./assets/icons/Group 1favorito.svg"
+                            alt="Símbolo com desenho de coração, parar visualizar seus itens favoritos">
+                    </a>
+                    <a href="">
+                        <img class="threeicons" src="./assets/icons/Group 2carrinho.svg"
+                            alt="Carrinho de compras, para ver itens a serem comprados">
+                    </a>
+                    <a href="">
+                        <img class="threeicons" src="./assets/icons/Group 2menuu.svg" alt="Menu hamburguer">
+                    </a>
+                </div>
+            </div>
 
-        <article>
-            <img src="../Desafio hmtl css/images/banner-notebook-tec-manhalaptop.png" alt="imagem de notebook">
-
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis quaerat nobis natus delectus</p>
-            <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, alias facilis. A voluptatibus laudantium</h2>
-            <button>Buy now</button>
-        </article>
-
+            <article class="note">
+                <img src="./assets/images/banner-notebook-tec-manhalaptop.png" alt="imagem de notebook">
+                <div class="formata-buynow">
+                    <p>minim veniam</p>
+                    <h2>Ut labore et <br> dolore</h2>
+                    <a href="" class="buy">Buy now</a>
+                </div>
+                <a href="" id="left">
+                    <img src="./assets/icons/Group 2esquerda (1).svg" alt="">
+                </a>
+                <a href="" id="right">
+                    <img src="./assets/icons/Group 3direita (1).svg" alt="">
+                </a>
+            </article>
+        </div>
     </header>
 
     <main>
+        <div class="grid">
+            <div class="opcoes">
+                <article class="dicas">
+                    <div>
+                        <img src="./assets/icons/mingcute_truck-linecaminhao.svg"
+                            alt="icone de caminhão, relacionado a rastreamento de produtos">
+                    </div>
 
+                    <div class="alinha-textos">
+                        <h1> <strong> Quis nostrud </strong></h1>
+                        <p>Voluptatem quai voluptas <br> aspernatur aut odit aut fugit.</p>
+                    </div>
+                </article>
+
+                <article class="dicas">
+                    <div>
+                        <img src="./assets/icons/Vectorretorno.svg" alt="">
+                    </div>
+
+                    <div class="alinha-textos">
+                        <h1><strong>Exercitation</strong></h1>
+                        <p>Nemo enim ipsam voluptatem <br> quia voluptas sit.</p>
+                    </div>
+                </article>
+
+                <article class="dicas">
+                    <div>
+                        <img src="./assets/icons/🦆 icon _support agent_suport.svg" alt="icone de suporte ao cliente">
+                    </div>
+
+                    <div class="alinha-textos">
+                        <h1> <strong> Ullamco laboris </strong></h1>
+                        <p>Neque porro quisquam est. <br> qui doloren ipsum quia.</p>
+                    </div>
+                </article>
+
+                <article class="dicas">
+                    <div>
+                        <img src="./assets/icons/🦆 icon _shopping bag_sacolcompra.svg" alt="icone de bag de compras">
+                    </div>
+
+                    <div class="alinha-textos">
+                        <h1> <strong> Nisi ut aliquip </strong></h1>
+                        <p>Ut enim ad minima veniam, <br> quis nostrum exercitationem.</p>
+                    </div>
+                </article>
+            </div>
+
+            <div class="titulo">
+                <p>natus error</p>
+                <h1>Une omnis iste</h1>
+                <h2>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impso alet <br> Amet impedit quis numquam
+                    ad tenetur beatae.</h2>
+            </div>
+
+            <div class="dispositivos-flex">
+                <article class="dispositivo">
+                    <img src="./assets/images/537519.jpg" alt="">
+
+                    <p>Hanzo</p>
+                    <p>Lin Kuei</p>
+                    <p>Shirai Ryu</p>
+                    <p>Bihan</p>
+                    <p><span> See all </span></p>
+                </article>
+
+                <article class="dispositivo">
+                    <img src="./assets/images/61RFZK-aEsL._AC_UF1000,1000_QL80_.jpg" alt="">
+
+                    <p>Hanzo</p>
+                    <p>Lin Kuei</p>
+                    <p>Shirai Ryu</p>
+                    <p>Bihan</p>
+                    <p><span> See all </span></p>
+                </article>
+
+                <article class="dispositivo">
+                    <img src="./assets/images/D_NQ_NP_636156-MLA51647385116_092022-O.jpg" alt="">
+
+                    <p>Hanzo</p>
+                    <p>Lin Kuei</p>
+                    <p>Shirai Ryu</p>
+                    <p>Bihan</p>
+                    <p><span> See all </span></p>
+                </article>
+
+                <article class="dispositivo">
+                    <img src="./assets/images/notebook-apple-macbook-pro-2020-apple-m1-memoria-8gb-ssd-256gb-13-3-prata_3468.jpg"
+                        alt="">
+
+                    <p>Hanzo</p>
+                    <p>Lin Kuei</p>
+                    <p>Shirai Ryu</p>
+                    <p>Bihan</p>
+                    <p><span> See all </span></p>
+                </article>
+            </div>
+
+            <div class="titulo">
+                <p>Deserunt</p>
+                <h1>Mollit anim</h1>
+            </div>
+
+            <article>
+                <h1>Set ut perspiciatis</h1>
+                <p>Unde omnis iste error</p>
+                <a href="" class="shop">Shop now</a>
+                <img src="" alt="dispositivo eletrônico disponivel a venda">
+            </article>
+        </div>
     </main>
 
     <footer>
