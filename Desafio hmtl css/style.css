@@ -233,6 +233,7 @@ main {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-bottom: 60px;
 }
 
 .titulo p {
@@ -252,7 +253,9 @@ main {
     color: #777777;
     font-family: cabin;
     font-size: 17px;
+    text-align: center;
 }
+
 
 .dispositivos-flex {
     display: flex;
@@ -283,7 +286,17 @@ main {
     color: #F9AA01;
 }
 
-article .shop
+section
+{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+
+
+.shop
 {
     width: 150px;
     height: 40px;
@@ -295,12 +308,218 @@ article .shop
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-left: 10px;
 }
 
-article .shop:hover
+.shop:hover
 {
-    color: #680950;
+    color: #550741;
+    background-color: #eeeeee;
+}
+
+#dispositivo-um
+{
+    /* border: red 1px solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    width: 302px;
+    height: 400px;
+    border-radius: 8px;
+}
+
+#dispositivo-um h1
+{
+    font-family: right;
+    font-weight: 200;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#dispositivo-um p
+{
+    font-family: cabin;
+    font-size: 17px;
+    color: #777777;
+    padding-left: 10px;
+}
+
+#dispositivo-um img
+{
+    position: relative;
+    bottom: 5px;
+    height: 260px;
+    width: 302px;
+}
+
+#dispositivo-um:hover
+{
+    box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+div #formatar-section
+{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#dispositivo-dois
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    /* border: #cf0d9f solid 1px; */
+    width: 322px;
+    height: 253px;
+    border-radius: 8px;
+}
+
+#dispositivo-dois h1
+{
+    font-family: right;
+    font-weight: 200;
+    font-size: 24px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#dispositivo-dois p
+{
+    font-family: cabin;
+    font-size: 17px;
+    color: #050505;
+    padding-left: 10px;
+}
+
+#dispositivo-dois img
+{
+    position: relative;
+    left: 118px;
+    z-index: 0;
+    height: 160px;
+    width: 200px;
+    bottom: 20px;
+}
+
+#dispositivo-dois:hover
+{
+    box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+#dispositivo-tres
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    /* border: #cf0d9f solid 1px; */
+    width: 322px;
+    height: 253px;
+    border-radius: 8px;
+}
+
+#dispositivo-tres p
+{
+    font-family: cabin;
+    font-size: 17px;
+    color: #050505;
+    padding-left: 10px;
 }
 
 
+#dispositivo-tres h1
+{
+    font-family: right;
+    font-weight: 200;
+    font-size: 24px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
 
+#dispositivo-tres img
+{
+    position: relative;
+    left: 118px;
+    z-index: 0;
+    height: 160px;
+    width: 200px;
+    bottom: 18px;
+}
+
+#dispositivo-tres:hover
+{
+    box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+#dispositivo-quatro
+{
+    position: absolute;
+    left: 362px;
+    top: 255px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    /* border: #cf0d9f solid 1px; */
+    width: 777px;
+    height: 253px;
+    border-radius: 8px;
+}
+
+#dispositivo-quatro p
+{
+    font-family: cabin;
+    font-size: 17px;
+    color: #050505;
+    padding-left: 10px;
+}
+
+
+#dispositivo-quatro h1
+{
+    font-family: right;
+    font-weight: 200;
+    font-size: 24px;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+#dispositivo-quatro img
+{
+    align-self: flex-end;
+    z-index: 0;
+    height: 160px;
+    width: 200px;
+    bottom: 10px;
+}
+
+#dispositivo-quatro:hover
+{
+    box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
+    transition: 0.5s;
+    transform: scale(1.1);
+}
+
+#dispositivo-quatro .shop
+{
+    margin-top: 20px;
+}
+
+
+ .formata-texto
+{
+    margin: 10px 0 0 15px;
+}
