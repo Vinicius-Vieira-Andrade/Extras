@@ -161,7 +161,7 @@ header {
 .note .buy:hover {
     color: black;
     background-color: rgba(249, 170, 1, 0.322);
-    
+
 }
 
 #right img {
@@ -286,8 +286,7 @@ main {
     color: #F9AA01;
 }
 
-section
-{
+section {
     position: relative;
     display: flex;
     justify-content: space-between;
@@ -296,8 +295,7 @@ section
 
 
 
-.shop
-{
+.shop {
     width: 150px;
     height: 40px;
     background-color: #ffffff;
@@ -308,68 +306,66 @@ section
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-left: 10px;
+    margin-left: 25px;
 }
 
-.shop:hover
-{
+.shop:hover {
     color: #550741;
     background-color: #eeeeee;
 }
 
-#dispositivo-um
-{
+#dispositivo-um {
     /* border: red 1px solid; */
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     cursor: pointer;
     width: 302px;
-    height: 400px;
+    height: 451px;
     border-radius: 8px;
+    gap: 30px
 }
 
-#dispositivo-um h1
-{
+#dispositivo-um div {
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+}
+
+#dispositivo-um h1 {
     font-family: right;
     font-weight: 200;
     font-size: 24px;
-    padding-left: 10px;
+    padding-left: 25px;
     padding-top: 10px;
 }
 
-#dispositivo-um p
-{
+#dispositivo-um p {
     font-family: cabin;
     font-size: 17px;
     color: #777777;
-    padding-left: 10px;
+    padding-left: 25px;
 }
 
-#dispositivo-um img
-{
+#dispositivo-um img {
     position: relative;
     bottom: 5px;
     height: 260px;
-    width: 302px;
+    width: 300px;
 }
 
-#dispositivo-um:hover
-{
+#dispositivo-um:hover {
     box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
     transition: 0.5s;
     transform: scale(1.1);
 }
 
-div #formatar-section
-{
+div #formatar-section {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-#dispositivo-dois
-{
+#dispositivo-dois {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -380,8 +376,7 @@ div #formatar-section
     border-radius: 8px;
 }
 
-#dispositivo-dois h1
-{
+#dispositivo-dois h1 {
     font-family: right;
     font-weight: 200;
     font-size: 24px;
@@ -390,16 +385,14 @@ div #formatar-section
     padding-top: 10px;
 }
 
-#dispositivo-dois p
-{
+#dispositivo-dois p {
     font-family: cabin;
     font-size: 17px;
     color: #050505;
     padding-left: 10px;
 }
 
-#dispositivo-dois img
-{
+#dispositivo-dois img {
     position: relative;
     left: 118px;
     z-index: 0;
@@ -408,15 +401,13 @@ div #formatar-section
     bottom: 20px;
 }
 
-#dispositivo-dois:hover
-{
+#dispositivo-dois:hover {
     box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
     transition: 0.5s;
     transform: scale(1.1);
 }
 
-#dispositivo-tres
-{
+#dispositivo-tres {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -427,8 +418,7 @@ div #formatar-section
     border-radius: 8px;
 }
 
-#dispositivo-tres p
-{
+#dispositivo-tres p {
     font-family: cabin;
     font-size: 17px;
     color: #050505;
@@ -436,8 +426,7 @@ div #formatar-section
 }
 
 
-#dispositivo-tres h1
-{
+#dispositivo-tres h1 {
     font-family: right;
     font-weight: 200;
     font-size: 24px;
@@ -446,8 +435,7 @@ div #formatar-section
     padding-top: 10px;
 }
 
-#dispositivo-tres img
-{
+#dispositivo-tres img {
     position: relative;
     left: 118px;
     z-index: 0;
@@ -456,30 +444,27 @@ div #formatar-section
     bottom: 18px;
 }
 
-#dispositivo-tres:hover
-{
+#dispositivo-tres:hover {
     box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
     transition: 0.5s;
     transform: scale(1.1);
 }
 
-#dispositivo-quatro
-{
+#dispositivo-quatro {
     position: absolute;
     left: 362px;
-    top: 255px;
+    top: 287px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     cursor: pointer;
     /* border: #cf0d9f solid 1px; */
     width: 777px;
-    height: 253px;
+    height: 208px;
     border-radius: 8px;
 }
 
-#dispositivo-quatro p
-{
+#dispositivo-quatro p {
     font-family: cabin;
     font-size: 17px;
     color: #050505;
@@ -487,8 +472,7 @@ div #formatar-section
 }
 
 
-#dispositivo-quatro h1
-{
+#dispositivo-quatro h1 {
     font-family: right;
     font-weight: 200;
     font-size: 24px;
@@ -497,29 +481,32 @@ div #formatar-section
     padding-top: 10px;
 }
 
-#dispositivo-quatro img
-{
+#dispositivo-quatro img {
+    position: relative;
     align-self: flex-end;
     z-index: 0;
-    height: 160px;
-    width: 200px;
+    width: 510px;
     bottom: 10px;
+    bottom: 150px;
 }
 
-#dispositivo-quatro:hover
-{
+#dispositivo-quatro:hover {
     box-shadow: 6px 6px 10px 0px rgba(0, 0, 0, 0.4);
     transition: 0.5s;
     transform: scale(1.1);
 }
 
-#dispositivo-quatro .shop
-{
-    margin-top: 20px;
+#dispositivo-quatro .shop {
+    margin-top: 35px;
 }
 
 
- .formata-texto
-{
+.formata-texto {
     margin: 10px 0 0 15px;
+}
+
+section.Unde-omnis{
+    border: #F9AA01 1px solid;
+    height: 513px;
+    margin-top: 120px;
 }
