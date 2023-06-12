@@ -4,23 +4,27 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalabe=no">
+    <!-- scalable evita zoom usuario -->
     <title>Relap</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="responsive.css">
 </head>
 
 <body>
     <header>
         <div class="grid">
             <div class="links">
-                <h1> relap </h1>
-                <input type="text" placeholder="Search">
+                <div class="relap">
+                    <h1> relap </h1>
+                    <input type="text" placeholder="Search">
+                </div>
                 <nav>
-                    <a href="">Store</a>
-                    <a href="">Features</a>
-                    <a href="">About</a>
-                    <a href="">Blog</a>
-                    <a href="">News</a>
+                    <a id="I" href="#I">Store</a>
+                    <a id="II" href="#II">Features</a>
+                    <a id="III" href="#III">About</a>
+                    <a id="IV" href="#IV">Blog</a>
+                    <a id="V" href="#V">News</a>
                 </nav>
 
                 <div class="alinha-icones">
@@ -33,7 +37,8 @@
                             alt="Carrinho de compras, para ver itens a serem comprados">
                     </a>
                     <a href="">
-                        <img class="threeicons" src="./assets/icons/Group 2menuu.svg" alt="Menu hamburguer">
+                        <img onclick="mostraMenu()" class="threeicons" src="./assets/icons/Group 2menuu.svg"
+                            alt="Menu hamburguer">
                     </a>
                 </div>
             </div>
@@ -154,12 +159,12 @@
                 </article>
             </div>
 
-            <div class="titulo">
+            <div id="I" class="titulo">
                 <p>Deserunt</p>
                 <h1>Mollit anim</h1>
             </div>
 
-            <section>
+            <section class="flex-dispositivos">
                 <aside id="dispositivo-um">
                     <div>
                         <h1>Set ut perspiciatis</h1>
@@ -196,27 +201,254 @@
                 </article>
             </section>
 
-            <section class="Unde-omnis">
-                <nav>
+            <section class="unde-omnis">
+                <div class="nav">
                     <h1>Unde omnis</h1>
-                    <a href="">Phone</a>
-                    <a href="">Eletronics</a>
-                    <a href="">Appliances</a>
-                    <a href="">Clothes</a>
-                    <a href="">Kids</a>
-                </nav>
+                    <div>
+                        <a id="one" href="#one">Phone</a>
+                        <a id="two" href="#two">Eletronics</a>
+                        <a id="three" href="#three">Appliances</a>
+                        <a id="four" href="#four">Clothes</a>
+                        <a id="five" href="#five">Kids</a>
+                    </div>
+                </div>
 
-                <article></article>
-                <article></article>
-                <article></article>
-                <article></article>
+                <article>
+                    <img src="./assets/images/som4.png" alt="fone de ouvido disponivel para venda">
+                    <div class="formata-precos">
+                        <h2>Nemo enim <br> ipsam</h2>
+                        <p>$180</p>
+                    </div>
+                    <img src="./assets/icons/Group 4comprar.svg" alt="">
+                </article>
 
+                <article>
+                    <img src="./assets/images/som3.png" alt="fone de ouvido disponivel a venda">
+                    <div class="formata-precos">
+                        <h2>Sed quia <br> consectetur</h2>
+                        <p>$180</p>
+                    </div>
+                    <img src="./assets/icons/Group 4comprar.svg" alt="">
+                </article>
+
+                <article>
+                    <img src="./assets/images/som2.png" alt="caixa de som disponivel para venda">
+                    <div class="formata-precos">
+                        <h2>Aut odit aut <br> fugit</h2>
+                        <p>$180</p>
+                    </div>
+                    <img src="./assets/icons/Group 4comprar.svg" alt="">
+                </article>
+
+                <article>
+                    <img src="./assets/images/som1.png" alt="caixa de som disponivel a venda">
+                    <div class="formata-precos">
+                        <h2>Quia voluptas <br> aspernatur</h2>
+                        <p>$180</p>
+                    </div>
+                    <img src="./assets/icons/Group 4comprar.svg" alt="">
+                </article>
+
+                <img id="direita" src="./assets/icons/Groupdddireita.svg" alt="">
+
+                <img id="esquerda" src="./assets/icons/Groupeeeesquerda.svg" alt="">
+
+            </section>
+
+
+
+            <section class="fone-principal">
+                <div class="magni-flex">
+                    <h1 id="titulo-principal">Magni dolores</h1>
+                    <h2>12:34:56:78</h2>
+                </div>
+
+                <div id="alinha-divs">
+                    <div class="efeito-box">
+                        <h1>Voluptate</h1>
+                        <div class="links-flex">
+                            <a id="um" class="caixa-links" href="#um">Phone</a>
+                            <a id="dois" class="caixa-links" href="#dois">Eletronics</a>
+                            <a id="tres" class="caixa-links" href="#tres">Appliances</a>
+                            <a id="quatro" class="caixa-links" href="#quatro">Clothes</a>
+                            <a id="cinco" class="caixa-links" href="#cinco">Kids</a>
+                        </div>
+                    </div>
+
+
+                    <div class="imagem-fone">
+                        <img src="./assets/images/a50-feature1-platform-foreground-image-ps4.webp" alt="">
+                        <div class="circle">
+                            <p>-15%</p>
+                        </div>
+                    </div>
+
+                    <div id="alinhaa-fone">
+
+
+                        <div class="text-flex">
+                            <h1>Quis autem vel eum iure <br> reprehenderit</h1>
+                            <h2>$199 <span> $299 </span></h2>
+
+                            <p>Neque porro quaisquam est, quia dolorem ipsum quia dolor sir amet, consectur adpisci
+                                velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam
+                                aliquam quaerat voluptatem.</p>
+
+                            <div id="sold">
+                                <h3>Sold: 120</h3>
+                                <h4> Quantity: 500</h4>
+                            </div>
+                            <div class="slider">
+                                <input id="range" type="range" min="0" max="100" value="0">
+                            </div>
+
+                            <button id="cart">Add to cart</button>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+            <section class="technologies">
+                <div class="relacionados-flex">
+                    <p id="p-principal">Velit esse</p>
+                    <h2>Quam nihil</h2>
+
+                    <div class="alinha-3relacionados">
+                        <article>
+                            <img src="./assets/images/relacionados1.png" alt="">
+                            <h3>Vel illum qui dolorem <br> eum fugiat</h3>
+                            <p>October 06/2023</p>
+                        </article>
+
+                        <article>
+                            <img src="./assets/images/relacionados2.png" alt="">
+                            <h3>Que voluptas nulla <br> paratiatur</h3>
+                            <p>October 06/2023</p>
+                        </article>
+
+                        <article>
+                            <img src="./assets/images/relacionados3.png" alt="">
+                            <h3>At vero eos et <br> accusamus et iusto</h3>
+                            <p>October 06/2023</p>
+                        </article>
+
+                        <img class="esq" src="./assets/icons/Groupdddireita.svg" alt="">
+
+                        <img class="dir" src="./assets/icons/Groupeeeesquerda.svg" alt="">
+
+                    </div>
+                </div>
             </section>
         </div>
     </main>
 
     <footer>
+        <div class="banner-roxo">
 
+            <!-- circulos do fundo roxo  -->
+            <div class="circlee"></div>
+            <div class="circlee2"></div>
+            <div class="circlee3"></div>
+
+
+            <div class="grid">
+                <section class="footer-roxo">
+
+                    <div class="ducimus">
+                        <h1>Odio dignissimos</h1>
+
+                        <h2>Ducimus qui</h2>
+
+                        <p>Praesetium voluptatum deleniti atque corrupti quos dolores et quas <br> molestias excepturi
+                            sint occaecati cupiditate non provident.</p>
+                    </div>
+
+                    <div class="subscribe">
+                        <input type="email" placeholder="Your email">
+
+                        <button type="submit">Subscribe</button>
+                    </div>
+                </section>
+            </div>
+        </div>
+
+
+        <!-- footer branco -->
+        <div class="grid">
+            <section class="flex-footer">
+                <article>
+                    <h1>Tempor</h1>
+                    <nav>
+                        <a id="ref1" href="#ref1">Similique</a>
+                        <a id="ref2" href="#ref2">Deserunt mollit anim</a>
+                        <a id="ref3" href="#ref3">Sed ut perspiciatis</a>
+                    </nav>
+                </article>
+
+                <article>
+                    <h1>In culpa</h1>
+                    <nav>
+                        <a id="reff1" href="#reff1">Sunt in culpa</a>
+                        <a id="reff2" href="#reff2">Molit anim</a>
+                        <a id="reff3" href="#reff3">perspiciatis</a>
+                    </nav>
+                </article>
+
+                <article>
+                    <h1>Qui officia</h1>
+                    <nav>
+                        <a id="refff1" href="#refff1">Anim</a>
+                        <a id="refff2" href="#refff2">Deserunt anim</a>
+                        <a id="refff3" href="#refff3">Sed ut</a>
+                    </nav>
+                </article>
+
+                <article>
+                    <h1>Magna</h1>
+                    <nav>
+                        <a id="ref1" href="#ref1">rua aaaa, 42</a>
+                        <a id="ref2" href="#ref2">qwerty@info.com</a>
+                        <a id="ref3" href="#ref3">+1 (254) 654 32 10</a>
+                    </nav>
+                </article>
+            </section>
+
+
+            <div class="icones-footer">
+                <div class="copyright">
+                    <p>Copyright 2023 - All Rights Reserved</p>
+                </div>
+
+                <div class="icons">
+                    <a href="">
+                        <img src="./assets/icons/teenyicons_facebook-outlinefb.svg" alt="">
+                    </a>
+
+                    <a href="">
+                        <img src="./assets/icons/Grouptt.svg" alt="">
+                    </a>
+
+                    <a href="">
+                        <img src="./assets/icons/Groupinsta.svg" alt="">
+                    </a>
+                </div>
+
+                <div class="pagamento">
+                    <a href="">
+                        <img src="./assets/icons/Group 5visa.svg" alt="">
+                    </a>
+
+                    <a href="">
+                        <img src="./assets/icons/Vectorpix.svg" alt="">
+                    </a>
+
+                    <a href="">
+                        <img src="./assets/icons/Vectormastercard.svg" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
     </footer>
 </body>
 
